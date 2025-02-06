@@ -1,0 +1,7 @@
+transformers
+gradio
+opencv-python
+pillow
+tensorflow
+torch
+tf-keras
